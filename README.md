@@ -3,4 +3,5 @@ Be a Citizen Scientist e' un mini-progetto di Citizens Science all’interno del
 i dati sono raccolti fra studenti, amici e parenti. Servono 5 minuti per riempiere il questionario. I dati saranno raccolti fino al 20 maggio.
 Questionario: https://docs.google.com/forms/d/e/1FAIpQLSej4hezccg7qDn6cPa5JtPqvge22qxFabrHOEeG6jFumGOqPw/viewform
 Maggiori informazioni sul progetto: https://www.frascatiscienza.it/2019/04/le-dinamiche-delle-notizie-citizen-science-per-capirlo/
+
 (*) https://www.amazon.it/Misinformation-Guida-societ%C3%A0-dellinformazione-credulit%C3%A0/dp/8891742252
